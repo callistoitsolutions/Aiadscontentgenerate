@@ -1,0 +1,12 @@
+
+streamlit
+openai
+groq
+spacy
+nltk
+python-docx
+reportlab
+sqlalchemy
+python-dotenv
+pandas
+numpy
